@@ -1,0 +1,12 @@
+2021-04-26 23:26:53 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2021-04-26 23:26:53 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 10697
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 10697
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2021-04-26 23:26:56 [INFO    ] (basehttp.log_message) "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692

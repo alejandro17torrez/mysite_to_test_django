@@ -70,13 +70,13 @@ TEMPLATES = [
 
 LOGGING = {
     "version": 1,
-    "disable_existing_loggers": True,
+    "disable_existing_loggers": False,
     "root": {"level": "INFO", "handlers": ["file"]},
     "handlers": {
         "file": {
             "level": "INFO",
             "class": "logging.FileHandler",
-            "filename": "gunicorn/access.log",
+            "filename": "logs/django.log",
             "formatter": "app",
         },
     },
